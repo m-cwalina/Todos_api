@@ -106,4 +106,3 @@ RSpec.describe 'Todos API', type: :request do
     end
   end
 end
-

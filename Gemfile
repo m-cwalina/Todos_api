@@ -45,7 +45,7 @@ group :test do
   gem 'factory_bot_rails', '~> 4.0'
   gem 'shoulda-matchers', '~> 5.1'
   gem 'faker'
-  gem 'database_cleaner'
+  gem 'database_cleaner', '~> 2.0', '>= 2.0.1'
   gem 'rubocop-faker', '~> 1.1'
   gem 'rubocop-rspec', '~> 2.8'
 end

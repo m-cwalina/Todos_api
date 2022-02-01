@@ -205,7 +205,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
-  database_cleaner
+  database_cleaner (~> 2.0, >= 2.0.1)
   factory_bot_rails (~> 4.0)
   faker
   listen (~> 3.3)
