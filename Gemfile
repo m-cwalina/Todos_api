@@ -46,4 +46,5 @@ group :test do
   gem 'shoulda-matchers', '~> 5.1'
   gem 'faker'
   gem 'database_cleaner'
+  gem 'rubocop-faker', '~> 1.1'
 end
